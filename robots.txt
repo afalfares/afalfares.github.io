@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://afalfares01.github.io/sitemap.xml
+Sitemap: https://afalfares.github.io/sitemap.xml
