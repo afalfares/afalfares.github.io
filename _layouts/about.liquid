@@ -65,11 +65,14 @@ layout: default
     {% endif %}
 
     <!-- Social -->
-    {% if page.social %}
+    {% if page.social or page.enable_contact_note %}
       <div class="social">
+        {% if page.social %}
         <div class="contact-icons">{% include social.liquid %}</div>
-
+        {% endif %}
+        {% if page.enable_contact_note %}
         <div class="contact-note">{{ site.contact_note }}</div>
+        {% endif %}
       </div>
     {% endif %}
 

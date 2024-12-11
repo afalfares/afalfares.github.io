@@ -2,21 +2,14 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description:
+description: My GitHub stats & repositories. You can find my GitHub profile <a href="https://github.com/afalfares"><b>here</b></a>.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 {% if site.data.repositories.github_users %}
 
-## GitHub Stats
-
-<!-- <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div> -->
-
+## Stats
 
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
@@ -27,16 +20,16 @@ nav_order: 4
   <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% include repository/repo_trophies.liquid username=user %}
   </div>
-
----
-
+<br>
+<hr>
+<br>
 {% endfor %}
 {% endif %}
 {% endif %}
 
 {% if site.data.repositories.github_repos %}
 
-## GitHub Repositories
+## Repositories
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}
