@@ -1,144 +1,251 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "name": "Abdulrahman Alfares",
+    "label": "",
+    "image": "/assets/img/prof_pic.png",
+    "email": "afalfares@pm.me",
+    "phone": "",
+    "website": "https://afalfares.github.io",
+    "linked-in": "https://www.linkedin.com/in/afalfares/",
+    "location": "Pittsburgh, PA & Kuwait City, Kuwait",
+    "summary": "MS in ECE Student at Carnegie Mellon University.",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Carnegie Mellon University",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.cmu.edu/",
+      "area": "Electrical and Computer Engineering - Advanced Study",
+      "studyType": "Master of Science",
+      "startDate": "2023-01",
+      "endDate": "2024-12",
+      "score": "",
+      "courses": [
+        "Browser Security", 
+        "Differential Privacy", 
+        "Information Security", 
+        "Offensive Security", 
+        "Policies of Wireless Systems", 
+        "Secure Software Systems",
+        "Web Application Development"
+      ]
+    },
+    {
+      "institution": "The Pennsylvania State University",
+      "location": "University Park, PA",
+      "url": "https://www.psu.edu/",
+      "area": "Computer Engineering",
+      "minor": "Minor in Mathematics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2018-08",
+      "endDate": "2021-12",
+      "score": "",
+      "courses": [
+        "Data Structures & Algorithms", 
+        "Communication Networks", 
+        "Computer Vision", 
+        "Factorization & Primality Testing",
+        "Image Processing", 
+        "Operating Systems", 
+        "Systems Programming"
+      ]
     }
+  ],
+  "work": [
+    {
+      "name": "ECE Dept., Carnegie Mellon University",
+      "position": "Teaching Assistant",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.ece.cmu.edu/",
+      "startDate": "2024-08",
+      "endDate": "2024-12",
+      "summary": "18636: Browser Security",
+      "highlights": []
+    },
+    {
+      "name": "ECE Dept., Carnegie Mellon University",
+      "position": "Teaching Assistant",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.ece.cmu.edu/",
+      "startDate": "2024-01",
+      "endDate": "2024-05",
+      "summary": "18631: Introduction to Information Security",
+      "highlights": []
+    },
+    {
+      "name": "CyLab, Carnegie Mellon University",
+      "position": "Research Intern",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.cylab.cmu.edu/",
+      "startDate": "2023-05",
+      "endDate": "2024-08",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "EECS Dept., The Pennsylvania State University",
+      "position": "Learning Assistant",
+      "location": "University Park, PA",
+      "url": "https://www.eecs.psu.edu/",
+      "startDate": "2021-08",
+      "endDate": "2021-12",
+      "summary": "CMPEN 454: Fundamentals of Computer Vision. A 'Learning Assistant' is the undergraduate equivalent of a 'Teaching Assistant' at Penn State.",
+      "highlights": []
+    }
+  ],
+  "projects": [
+    {}
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Top 3 Project Recognition - CMU Marketplace",
+      "date": "2024-12-05",
+      "awarder": "Dr. Jeffrey Eppinger & Dr. Austin Henley",
+      "url": "",
+      "summary": "Selected as one of the top 3 projects for <a href=\"https://www.cmu-webapps.org/\">CMU's WebApps course</a>, competing among 100 other students and 35 other teams."
+    },
+    {
+      "title": "2nd Place at the International oneM2M Hackathon",
+      "date": "2021-11-17",
+      "awarder": "Korea Electronics Technology Institute",
+      "url": "/assets/img/keti_onem2m_award.jpg",
+      "summary": ""
+    },
+    {
+      "title": "Dean's List",
+      "date": "2021-12",
+      "awarder": "The Pennsylvania State University",
+      "url": "",
+      "summary": "Awarded for the following semesters at Penn State: Spring 2019, Fall 2019, Spring 2020, Fall 2020 & Fall 2021."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Structuring Machine Learning Projects",
+      "date": "2023-05-03",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/verify/SCHMQ6MJQ2MW",
+      "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Responsible Conduct of Research (Physical Sciences)",
+      "date": "2022-08-28",
+      "issuer": "CITI Program",
+      "url": "https://www.citiprogram.org/verify/?w6563eb32-8eef-46eb-8f3a-edb0a2ceda82-50969601",
+      "icon": "fa-solid fa-magnifying-glass"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+      "date": "2021-09-02",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/verify/NNWYCHD692GY",
+      "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Neural Networks and Deep Learning",
+      "date": "2021-02-15",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/verify/KUAHD9DZ3DQQ",
+      "icon": "fa-solid fa-certificate"
     }
   ],
   "publications": [
+  ],
+  "memberships": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "organization": "Plaid Parliament of Pwning (PPP)",
+      "location": "Pittsburgh, PA",
+      "position": "Member",
+      "url": "https://pwning.net/",
+      "startDate": "2024-08",
+      "endDate": "",
+      "summary": "CMU's CTF/Hacking Team. Participated in various CTF/Hacking competitions individually, as part of <a href=\"https://ctftime.org/team/284\">PPP</a> and, occasionally, <a href=\"https://ctftime.org/team/193591\">Maple Mallard Magistrates (MMM)</a>.",
+      "highlights": ["Played in Advent of Code, Advent of Cyber, BuckeyeCTF, CSAW CTF Quals, Hackceler8, Hack The Vote, NSA Codebreakers, PatriotCTF & SpookyCTF."]
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "organization": "Eta Kappa Nu (HKN), Sigma Chapter",
+      "location": "Pittsburgh, PA",
+      "position": "Member",
+      "url": "http://hkn.ece.cmu.edu/index.php",
+      "startDate": "2023-12",
+      "endDate": "",
+      "summary": "The international honor society of the Institute of Electrical and Electronics Engineers (IEEE). Inducted into the CMU (Sigma) Chapter on December 13th 2023.",
+      "highlights": []
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "organization": "Kuwaiti Students Association",
+      "location": "University Park, PA",
+      "position": "THON Chair",
+      "url": "https://www.kuwaitipsu.org/",
+      "startDate": "2019-08",
+      "endDate": "2020-05",
+      "summary": "Facilitated communication and planning betwen the Kuwaiti Students Association and THON, the largest student-run philanthropy in the world that is \"committed to enhancing the lives of children and families impacted by childhood cancer.\"",
+      "highlights": ["Organized fundraiser events in collaboration with local restaurants and shops", "Maintained an online page for communicating with donors and receiving donations"]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming & Scripting",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python", "C/C++", "JavaScript", "Bash", "OCaml", "Dafny", "Java", "MATLAB", "WebAssembly", "x86", "MIPS"
+      ]
+    },
+    {
+      "name": "Tools & Services",
+      "level": "",
+      "icon": "fa-solid fa-toolbox",
+      "keywords": [
+        "Git", "Burp Suite", "mitmproxy", "Docker", "AWS", "GDB/GEF/pwndbg", "Valgrind", "pwntools", "Wireshark", "OpenSSL", "libsodium", "Postman"
+      ]
+    }
+  ],
+  "volunteering": [
+    {
+      "organization": "Al Kharafi Activity Centre For Kids With Special Needs",
+      "location": "Kuwait",
+      "position": "Volunteer",
+      "url": "https://www.instagram.com/kharafi_kids/",
+      "startDate": "2017-07",
+      "endDate": "2017-08",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Alnowair",
+      "location": "Kuwait",
+      "position": "Volunteer",
+      "url": "https://alnowair.com/",
+      "startDate": "2016-11",
+      "endDate": "2016-12",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "fluency": "Native/Bilingual Proficiency",
+      "icon": "fa-solid fa-language"
+    },
+    {
+      "language": "English",
+      "fluency": "Native/Bilingual Proficiency",
+      "icon": "fa-solid fa-language"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Professional",
+      "icon": "fa-solid fa-user-tie",
       "keywords": [
         "Quantum Mechanics",
         "Quantum Computing",
@@ -147,26 +254,12 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Personal",
+      "icon": "fa-solid fa-cubes-stacked",
       "keywords": [
-        "Quantum Mechanics",
+        "Cooking & Baking",
         "Quantum Computing",
         "Quantum Information",
         "Quantum Cryptography",
@@ -176,25 +269,5 @@
     }
   ],
   "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
 }

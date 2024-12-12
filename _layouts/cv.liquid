@@ -92,8 +92,10 @@ layout: default
                   {% include resume/education.liquid %}
                 {% when 'work' %}
                   {% include resume/work.liquid %}
-                {% when 'volunteer' %}
+                {% when 'volunteering' %}
                   {% include resume/volunteer.liquid %}
+                {% when 'memberships' %}
+                  {% include resume/memberships.liquid %}
                 {% when 'projects' %}
                   {% include resume/projects.liquid %}
                 {% when 'awards' %}
@@ -111,7 +113,7 @@ layout: default
                 {% when 'references' %}
                   {% include resume/references.liquid %}
                 {% else %}
-
+                    
               {% endcase %}
             </div>
           </div>

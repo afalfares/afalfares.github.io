@@ -16,7 +16,7 @@
             {% for item in content.items %}
               {% assign i = i | plus: 1 %}
             {% endfor %}
-            <td colspan="{{ i }}" class="list-group-category">{{ content.name }}</td>
+            <td colspan="{{ i }}" class="list-group-category" style="font-weight: bold;">{{ content.name }}</td>
           </tr>
           {% for item in content.keywords %}
             <tr>

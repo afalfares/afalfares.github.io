@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Abdulrahman
-middle_name: F
+middle_name: F.
 last_name: Alfares
 email: afalfares@pm.me
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -27,7 +27,7 @@ back_to_top: true # set to false to disable the back to top button
 
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: nord # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: react # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
@@ -634,10 +634,10 @@ jsonresume:
   - education
   - publications
   - projects
-  - volunteer
+  - volunteering
   - awards
   - certificates
   - skills
   - languages
-  - interests
   - references
+  - memberships
