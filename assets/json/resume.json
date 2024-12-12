@@ -56,6 +56,21 @@
         "Operating Systems", 
         "Systems Programming"
       ]
+    },
+    {
+      "institution": "American Creativity Academy",
+      "location": "Hawally, Kuwait",
+      "url": "",
+      "area": "Extended Essay in Physics",
+      "studyType": "International Baccalaureate Diploma",
+      "startDate": "2016-08",
+      "endDate": "2018-05",
+      "score": "",
+      "courses": [
+        "HL Courses: English, Math, Physics", 
+        "SL Courses: Chemisty, History, Spanish ab initio",
+        "Completed in conjunction with a high school diploma."
+      ]
     }
   ],
   "work": [
@@ -105,7 +120,7 @@
   ],
   "awards": [
     {
-      "title": "Top 3 Project Recognition - CMU Marketplace",
+      "title": "Top 3 Project Recognition - Marketplace WebApp",
       "date": "2024-12-05",
       "awarder": "Dr. Jeffrey Eppinger & Dr. Austin Henley",
       "url": "",
@@ -166,8 +181,12 @@
       "url": "https://pwning.net/",
       "startDate": "2024-08",
       "endDate": "",
-      "summary": "CMU's CTF/Hacking Team. Participated in various CTF/Hacking competitions individually, as part of <a href=\"https://ctftime.org/team/284\">PPP</a> and, occasionally, <a href=\"https://ctftime.org/team/193591\">Maple Mallard Magistrates (MMM)</a>.",
-      "highlights": ["Played in Advent of Code, Advent of Cyber, BuckeyeCTF, CSAW CTF Quals, Hackceler8, Hack The Vote, NSA Codebreakers, PatriotCTF & SpookyCTF."]
+      "summary": "CMU's CTF/Hacking Team. Participated in various CTF/coding competitions individually, as part of <a href=\"https://ctftime.org/team/284\">PPP</a> and, occasionally, <a href=\"https://ctftime.org/team/193591\">Maple Mallard Magistrates (MMM)</a>.",
+      "highlights": [
+        "Played in Advent of Code, Advent of Cyber, BuckeyeCTF, CSAW CTF Quals, Hackceler8, Hack The Vote, NSA Codebreakers, PatriotCTF & SpookyCTF.",
+        "Created two CTF web exploitation challenges.",
+        "Focused on solving binary and web exploitation challenges."
+      ]
     },
     {
       "organization": "Eta Kappa Nu (HKN), Sigma Chapter",
