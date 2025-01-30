@@ -2,13 +2,13 @@
   "basics": {
     "name": "Abdulrahman Alfares",
     "label": "",
-    "image": "/assets/img/prof_pic.png",
+    "image": "",
     "email": "afalfares@pm.me",
     "phone": "",
     "website": "https://afalfares.github.io",
     "linked-in": "https://www.linkedin.com/in/afalfares/",
     "location": "Pittsburgh, PA & Kuwait City, Kuwait",
-    "summary": "MS in ECE Student at Carnegie Mellon University.",
+    "summary": "Recent MS in ECE graduate from Carnegie Mellon University. Interested in backend web development and securing web applications. Actively looking for opportunities in Kuwait where I can apply my skills, learn from others, and contribute to building more secure, reliable applications.",
     "profiles": [
       {
         "network": "",
@@ -69,11 +69,11 @@
       "courses": [
         "HL Courses: English, Math, Physics", 
         "SL Courses: Chemisty, History, Spanish ab initio",
-        "Completed in conjunction with a high school diploma."
+        "Completed in conjunction with a high school diploma at the American Creativity Academy."
       ]
     }
   ],
-  "work": [
+  "experience": [
     {
       "name": "ECE Dept., Carnegie Mellon University",
       "position": "Teaching Assistant",
@@ -81,7 +81,9 @@
       "url": "https://www.ece.cmu.edu/",
       "startDate": "2024-08",
       "endDate": "2024-12",
-      "summary": "18636: Browser Security",
+      "summary_url":"https://courses.ece.cmu.edu/18636",
+      "summary_url_text": "18636: Browser Security",
+      "summary": "Held weekly office hours, graded exams, contributed to assigment creation, and aided in future course development.",
       "highlights": []
     },
     {
@@ -91,7 +93,9 @@
       "url": "https://www.ece.cmu.edu/",
       "startDate": "2024-01",
       "endDate": "2024-05",
-      "summary": "18631: Introduction to Information Security",
+      "summary_url":"https://courses.ece.cmu.edu/18631",
+      "summary_url_text": "18631: Introduction to Information Security",
+      "summary": "Prepared assignments, held weekly office hours, led recitation sections to help students with assignments, graded exams, and aided in future course development.",
       "highlights": []
     },
     {
@@ -111,7 +115,9 @@
       "url": "https://www.eecs.psu.edu/",
       "startDate": "2021-08",
       "endDate": "2021-12",
-      "summary": "CMPEN 454: Fundamentals of Computer Vision. A 'Learning Assistant' is the undergraduate equivalent of a 'Teaching Assistant' at Penn State.",
+      "summary_url":"https://bulletins.psu.edu/search/?P=CMPEN%20454",
+      "summary_url_text": "CMPEN 454: Fundamentals of Computer Vision",
+      "summary": "A 'Learning Assistant' is the undergraduate equivalent of a 'Teaching Assistant' at Penn State.",
       "highlights": []
     }
   ],
@@ -183,7 +189,7 @@
       "endDate": "",
       "summary": "CMU's CTF/Hacking Team. Participated in various CTF/coding competitions individually, as part of <a href=\"https://ctftime.org/team/284\">PPP</a> and, occasionally, <a href=\"https://ctftime.org/team/193591\">Maple Mallard Magistrates (MMM)</a>.",
       "highlights": [
-        "Played in Advent of Code, Advent of Cyber, BuckeyeCTF, CSAW CTF Quals, Hackceler8, Hack The Vote, NSA Codebreakers, PatriotCTF & SpookyCTF.",
+        "Played in Advent of Code (solo), Advent of Cyber (solo), BuckeyeCTF, CSAW CTF Quals, Hackceler8, Hack The Vote, NSA Codebreakers (solo), PatriotCTF & SpookyCTF.",
         "Created two CTF web exploitation challenges.",
         "Focused on solving binary and web exploitation challenges."
       ]
@@ -194,7 +200,7 @@
       "position": "Member",
       "url": "http://hkn.ece.cmu.edu/index.php",
       "startDate": "2023-12",
-      "endDate": "",
+      "endDate": "2024-12",
       "summary": "The international honor society of the Institute of Electrical and Electronics Engineers (IEEE). Inducted into the CMU (Sigma) Chapter on December 13th 2023.",
       "highlights": []
     },
@@ -206,7 +212,10 @@
       "startDate": "2019-08",
       "endDate": "2020-05",
       "summary": "Facilitated communication and planning betwen the Kuwaiti Students Association and THON, the largest student-run philanthropy in the world that is \"committed to enhancing the lives of children and families impacted by childhood cancer.\"",
-      "highlights": ["Organized fundraiser events in collaboration with local restaurants and shops", "Maintained an online page for communicating with donors and receiving donations"]
+      "highlights": [
+        "Organized fundraiser events in collaboration with local restaurants and shops", 
+        "Maintained an online page for communicating with donors and receiving donations"
+      ]
     }
   ],
   "skills": [
@@ -215,7 +224,7 @@
       "level": "",
       "icon": "fa-solid fa-code",
       "keywords": [
-        "Python", "C/C++", "JavaScript", "Bash", "OCaml", "Dafny", "Java", "MATLAB", "WebAssembly", "x86", "MIPS"
+        "Python", "C", "JavaScript", "Shell Scripting", "OCaml", "Dafny", "WebAssembly", "x86"
       ]
     },
     {
