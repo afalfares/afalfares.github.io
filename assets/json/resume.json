@@ -7,8 +7,8 @@
     "phone": "",
     "website": "https://afalfares.github.io",
     "linked-in": "https://www.linkedin.com/in/afalfares/",
-    "location": "Pittsburgh, PA & Kuwait City, Kuwait",
-    "summary": "Recent MS in ECE graduate from Carnegie Mellon University. Interested in backend web development and securing web applications. Actively looking for opportunities in Kuwait where I can apply my skills, learn from others, and contribute to building more secure, reliable applications.",
+    "location": "Kuwait City, Kuwait",
+    "summary": "Fresh MS in Electrical and Computer Engineering graduate from Carnegie Mellon University that is interested in exploring ways to secure software systems (integrating security checks into CI/CD pipelines, implementing security automation through static/dynamic analysis and fuzzing, high availability, redundancy, and disaster recovery, etc.) and backend web development. Actively looking for opportunities in Kuwait where I can apply my skills, learn from others, and contribute to building more secure, reliable software systems.",
     "profiles": [
       {
         "network": "",
@@ -23,6 +23,7 @@
       "location": "Pittsburgh, PA",
       "url": "https://www.cmu.edu/",
       "area": "Electrical and Computer Engineering - Advanced Study",
+      "minor": "Concentration in Computer Security",
       "studyType": "Master of Science",
       "startDate": "2023-01",
       "endDate": "2024-12",
@@ -130,7 +131,7 @@
       "date": "2024-12-05",
       "awarder": "Dr. Jeffrey Eppinger & Dr. Austin Henley",
       "url": "",
-      "summary": "Selected as one of the top 3 projects for <a href=\"https://www.cmu-webapps.org/\">CMU's WebApps course</a>, competing among 100 other students and 35 other teams."
+      "summary": "Selected as one of the top 3 projects for <a href=\"https://www.cmu-webapps.org/\">CMU's WebApps course</a>, competing among 100 other students (35 other teams)."
     },
     {
       "title": "2nd Place at the International oneM2M Hackathon",
@@ -190,7 +191,7 @@
       "summary": "CMU's CTF/Hacking Team. Participated in various CTF/coding competitions individually, as part of <a href=\"https://ctftime.org/team/284\">PPP</a> and, occasionally, <a href=\"https://ctftime.org/team/193591\">Maple Mallard Magistrates (MMM)</a>.",
       "highlights": [
         "Played in Advent of Code (solo), Advent of Cyber (solo), BuckeyeCTF, CSAW CTF Quals, Hackceler8, Hack The Vote, NSA Codebreakers (solo), PatriotCTF & SpookyCTF.",
-        "Created two CTF web exploitation challenges.",
+        "Created two web CTF challenges.",
         "Focused on solving binary and web exploitation challenges."
       ]
     },
@@ -224,7 +225,7 @@
       "level": "",
       "icon": "fa-solid fa-code",
       "keywords": [
-        "Python", "C", "JavaScript", "Shell Scripting", "OCaml 🐪", "Rust 🦀", "Dafny", "WebAssembly", "x86"
+        "Python 🐍", "C", "JavaScript", "Shell Scripting", "OCaml 🐪", "Rust 🦀", "Dafny", "WebAssembly", "x86"
       ]
     },
     {
