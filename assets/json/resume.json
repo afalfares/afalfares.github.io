@@ -8,7 +8,7 @@
     "website": "https://afalfares.github.io",
     "linked-in": "https://www.linkedin.com/in/afalfares/",
     "location": "Kuwait City, Kuwait",
-    "summary": "Fresh MS in Electrical and Computer Engineering graduate from Carnegie Mellon University that is interested in exploring ways to secure software systems (integrating security checks into CI/CD pipelines, implementing security automation through static/dynamic analysis and fuzzing, high availability, redundancy, and disaster recovery, etc.) and backend web development. Actively looking for opportunities in Kuwait where I can apply my skills, learn from others, and contribute to building more secure, reliable software systems.",
+    "summary": "Recent MS in Electrical and Computer Engineering graduate from Carnegie Mellon University with a concentration in Computer Security that is interested in exploring ways to secure software systems by implementing security automation through static/dynamic analysis and fuzzing, web application penetration testing and backend web development. Actively looking for opportunities in Kuwait where I can apply my skills, learn from others, and contribute to building more secure, reliable software systems.",
     "profiles": [
       {
         "network": "",
@@ -76,7 +76,7 @@
   ],
   "experience": [
     {
-      "name": "ECE Dept., Carnegie Mellon University",
+      "name": "Electrical & Computer Engineering Dept., Carnegie Mellon University",
       "position": "Teaching Assistant",
       "location": "Pittsburgh, PA",
       "url": "https://www.ece.cmu.edu/",
@@ -88,7 +88,7 @@
       "highlights": []
     },
     {
-      "name": "ECE Dept., Carnegie Mellon University",
+      "name": "Electrical & Computer Engineering Dept., Carnegie Mellon University",
       "position": "Teaching Assistant",
       "location": "Pittsburgh, PA",
       "url": "https://www.ece.cmu.edu/",
@@ -100,14 +100,17 @@
       "highlights": []
     },
     {
-      "name": "CyLab, Carnegie Mellon University",
+      "name": "CyLab Security & Privacy Institute, Carnegie Mellon University",
       "position": "Research Intern",
       "location": "Pittsburgh, PA",
       "url": "https://www.cylab.cmu.edu/",
       "startDate": "2023-05",
       "endDate": "2024-08",
-      "summary": "",
-      "highlights": []
+      "summary": "Researched methodology to automate website login and registration processes under the supervision of Dr. Limin Jia.",
+      "highlights": [
+        "Created a PoC of an automated login workflow utilizing Single Sign-On (SSO) and a custom implementation of pyppeteer.",
+        "Expanded upon existing infrastructure for a DOM-XSS project to enable analysis on web pages requiring authentication using the PoC."
+      ]
     },
     {
       "name": "EECS Dept., The Pennsylvania State University",
